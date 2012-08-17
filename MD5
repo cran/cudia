@@ -1,0 +1,13 @@
+11cb487760cf9b9df96f542dd131861d *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+26987ee3d840bf4a11bb9c60fd7b66c8 *R/cudia.R
+61d572deedd8f4ee044d7c1a382234e5 *data/cudia_medic.RData
+5682dda3a23f73d85ad1393d073eef91 *data/cudia_simul.RData
+a318f98b744a0e2e1572b3f3d8b21f30 *man/cudia-internal.Rd
+7a4bcbb71dfcf927af7182d78e840a5e *man/cudia-package.Rd
+9c1bc3aea384e3bab25db4e143e4fa44 *man/cudia.Rd
+4f6516ba44805c490169d76152f61ea7 *man/cudia_medic.Rd
+4301271bc2b5bde2b8c9fb43065834a2 *man/cudia_simul.Rd
+e59e3453583485a5b4e2a72eeb856997 *man/plot.cudia.Rd
+3f51cdb0e74998f0668e1c252f03fb69 *man/print.cudia.Rd
+ea5ff305e7df7ad64054cafa57e9e09c *man/summary.cudia.Rd
